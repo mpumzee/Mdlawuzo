@@ -116,8 +116,8 @@
 }
 
 .bg-fruit {
-    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/fruit.png) bottom right no-repeat;
-    background-size: contain;
+    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/cow2.jpg) bottom right no-repeat;
+    /* background-size: contain; */
 }
 
 .service-item {
